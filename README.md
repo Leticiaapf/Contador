@@ -1,8 +1,8 @@
-# 📊 Contador em JavaScript
+#Contador em JavaScript
 
 Este é um projeto simples de contador desenvolvido com HTML, CSS e JavaScript, com foco no aprendizado e prática de conceitos fundamentais de manipulação do DOM.
 
-## 🚀 Objetivo
+## Objetivo
 
 O objetivo deste projeto foi reforçar conceitos básicos de JavaScript, principalmente:
 - Manipulação do DOM
@@ -10,7 +10,7 @@ O objetivo deste projeto foi reforçar conceitos básicos de JavaScript, princip
 - Lógica de programação
 - Armazenamento de dados no navegador (localStorage)
 
-## 🧠 Conceitos aplicados
+## Conceitos aplicados
 
 - Seleção de elementos com `getElementById`
 - Uso de funções para controle de estado
@@ -18,19 +18,19 @@ O objetivo deste projeto foi reforçar conceitos básicos de JavaScript, princip
 - Atualização dinâmica de conteúdo na tela
 - Persistência de dados com `localStorage`
 
-## ⚙️ Funcionalidades
+## Funcionalidades
 
-- ➕ Incrementar o contador
-- ➖ Decrementar o contador
-- 🔄 Resetar o contador
-- 💾 Salvar valor no navegador
-- 📂 Carregar valor salvo
+-  Incrementar o contador
+-  Decrementar o contador
+-  Resetar o contador
+- Salvar valor no navegador
+- Carregar valor salvo
 
-## 💻 Tecnologias utilizadas
+## Tecnologias utilizadas
 
 - HTML5
 - JavaScript
 
-## 📌 Observação
+##  Observação
 
 Este é um projeto de estudo com foco na evolução contínua das minhas habilidades em desenvolvimento Front-End.
